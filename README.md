@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamuelParkerTech
 - 👀 I’m interested in ...learning code
 - 🌱 I’m currently learning ... HTML/CSS/JavaScript/Python
-- 📫 How to reach me ... email samuelparkertech@gmail.com
+- 📫 How to reach me ... email email@samuelparker.tech
 - 😄 Pronouns: ... he/him
 
 
