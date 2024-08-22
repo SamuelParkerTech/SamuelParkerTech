@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SamuelParkerTech
 - 👀 I’m interested in ...learning code
-- 🌱 I’m currently learning ... HTML/CSS/JavaScript/Python
+- 🌱 I’m currently learning ... Python
 - 📫 How to reach me ... email email@samuelparker.tech
 - 😄 Pronouns: ... he/him
+- Skills HTML/CSS/BootStrap
 
 
 <!---
